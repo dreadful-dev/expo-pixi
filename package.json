@@ -9,13 +9,13 @@
     "lib"
   ],
   "main": "lib/index.js",
-  "homepage": "https://github.com/expo/expo-pixi#readme",
+  "homepage": "https://github.com/dreadful-dev/expo-pixi#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/expo/expo-pixi.git"
+    "url": "git+https://github.com/dreadful-dev/expo-pixi.git"
   },
   "bugs": {
-    "url": "https://github.com/expo/expo-pixi/issues"
+    "url": "https://github.com/dreadful-dev/expo-pixi/issues"
   },
   "author": "Evan Bacon <bacon@expo.io> (https://expo.io/)",
   "keywords": [
